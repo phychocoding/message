@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\桌面\message\message\message\bin\Debug\net8.0-windows\message.exe
+C:\Users\user\OneDrive\桌面\message\message\message\bin\Debug\net8.0-windows\message.deps.json
+C:\Users\user\OneDrive\桌面\message\message\message\bin\Debug\net8.0-windows\message.runtimeconfig.json
+C:\Users\user\OneDrive\桌面\message\message\message\bin\Debug\net8.0-windows\message.dll
+C:\Users\user\OneDrive\桌面\message\message\message\bin\Debug\net8.0-windows\message.pdb
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.Form1.resources
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.AssemblyInfo.cs
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.dll
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\refint\message.dll
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.pdb
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\message.genruntimeconfig.cache
+C:\Users\user\OneDrive\桌面\message\message\message\obj\Debug\net8.0-windows\ref\message.dll
